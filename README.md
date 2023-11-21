@@ -6,56 +6,16 @@ This document outlines the manual testing procedures for the Rokomari.com. The p
 
 Before starting the manual testing process, ensure that the following prerequisites are met:
 
-    [List any prerequisites, such as environment setup, dependencies, or configurations.]
-
+    "The scope of testing includes the website's homepage, product listings, search functionality, user account management, checkout process, and payment processing functionality."
 # Test Environment
 
 The manual testing will be conducted in the following environment:
 
-    Operating System: [Specify OS]
-    Browsers: [List supported browsers]
-    Devices: [Specify any specific devices, if applicable]
+    Operating System: [Windows , Mac , iOS]
+    Browsers: [Chrome, Firefox, Safari, and Edge]
+    Devices: [Desktop and mobile devices]
 
-Test Scenarios
-1. [Feature Name]
-Test Case 1: [Brief description of the test case]
+# Feature
+1. User Management
 
-    Steps to Reproduce:
-        [Step 1]
-        [Step 2]
-        ...
-
-    Expected Result:
-        [Describe the expected outcome]
-
-    Actual Result:
-        [Record the actual outcome]
-
-Test Case 2: [Brief description of the test case]
-
-    Steps to Reproduce:
-        [Step 1]
-        [Step 2]
-        ...
-
-    Expected Result:
-        [Describe the expected outcome]
-
-    Actual Result:
-        [Record the actual outcome]
-
-2. [Next Feature Name]
-
-...
-Test Execution
-
-    Execute each test case in the specified environment.
-    Record the actual results.
-    If any discrepancies are found, log them in the issue tracker with detailed steps to reproduce.
-
-Issues and Reporting
-
-If any issues are identified during manual testing, report them in the project's issue tracker following the provided template. Include screenshots, steps to reproduce, and any relevant information to facilitate debugging and resolution.
-Conclusion
-
-Manual testing is an integral part of ensuring the quality and reliability of [Project Name]. Regularly update this document as new features are introduced or modified, and repeat the manual testing process accordingly.
+Manual testing is an integral part of ensuring the quality and reliability of rokomari.com . Regularly update this document as new features are introduced or modified, and repeat the manual testing process accordingly.
